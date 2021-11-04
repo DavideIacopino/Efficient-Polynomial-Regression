@@ -1,5 +1,5 @@
 # Efficient-Polynomial-Regression
-IT
+<h1>IT</h1>
 <h2> Regressione polinomiale e discesa stocastica del gradiente </h2>
 <head>
 <p1> Implementazione dell'algoritmo di regressione 
@@ -16,7 +16,7 @@ La variante ADAGRAD che usa l'algoritmo adagrad come acceleratore
 Le due varianti sono implementate nella versione a 32 ed a 64 bit, con l'aggiunta anche delle direttive OpenMP.
 </p1>
 
-EN
+<h1>EN</h1>
 <h2> Polynomial Regression and Stochastic Gradient Descent </h2>
 <head>
 <p1> Implementation of Polynomial Regression algorithm in C with several optimizations in Assemblyx86 in order to exploit SIMD parallelism and ILP-based parallelism.
